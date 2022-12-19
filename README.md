@@ -20,7 +20,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/jonatanAcevedo/Template_Data_Analysit.git
+    cookiecutter https://github.com/jonatanAcevedo/Template_Data_Analyst.git
 
 ### Installing development requirements
 ------------
