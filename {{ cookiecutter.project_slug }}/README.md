@@ -1,7 +1,5 @@
 {{ cookiecutter.project_title }}
 ==============================
-Author: {{ project_author_name }}
-Description: {{ project_description }}
 
 Project Organization
 ------------
