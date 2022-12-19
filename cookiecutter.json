@@ -1,0 +1,8 @@
+{
+    "project_title": "Cookiecutter Data Analysit",
+    "project_slug": "{{ cookiecutter.project_title.lower().replace(' ', '_') }}",
+    "project_description": "This is a data analyst project",
+    "project_author_name": "Your name",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.10"
+}
